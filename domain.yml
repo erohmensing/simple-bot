@@ -1,0 +1,17 @@
+intents:
+- greet
+- goodbye
+
+responses:
+  utter_greet:
+  - text: Hey there!
+  - text: Hi!
+  - text: Hello!
+
+  utter_goodbye:
+  - text: Goodbye!
+  - text: Speak to you soon!
+  - text: Thanks and farewell!
+
+session_config: 
+  session_expiration_time: 60
