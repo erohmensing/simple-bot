@@ -4,7 +4,7 @@ stories:
   steps:
   - intent: greet
   - action: utter_greet
-  - intent: mood_great
+  - intent: mood_greaaaaat
   - action: utter_haaappy
 - story: sad path 1
   steps:
